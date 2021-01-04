@@ -9,13 +9,13 @@
     It focuses on al algorithmic trading strategy based on simple moving averages and how to backtest such a strategy. 
 * Random Walk Hypothesis: 
     This section introduces the random walk hypothesis. 
-* Linear OLS Regression
+* Linear OLS Regression:
     This sections looks at using OLS regression do derive an algorithmic trading strategy. 
-* Clustering 
+* Clustering: 
     We explore using unsupervised learning algorithms to derive algorithmic trading strategies. 
-* Frequency Approach
+* Frequency Approach:
     We look at classification algorithms from machine learning for algorithmic trading
-* Deep Neural Networks
+* Deep Neural Networks: 
     This section focuses on deep neural netwoks and how to use them for algorithmic trading
    
 The code and comments:
